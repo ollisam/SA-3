@@ -1,0 +1,15 @@
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/bin/Debug/net9.0/CleanThatCode.Community.Repositories.deps.json
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/bin/Debug/net9.0/CleanThatCode.Community.Repositories.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/bin/Debug/net9.0/CleanThatCode.Community.Repositories.pdb
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/bin/Debug/net9.0/CleanThatCode.Community.Models.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/bin/Debug/net9.0/CleanThatCode.Community.Models.pdb
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.csproj.AssemblyReference.cache
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.AssemblyInfoInputs.cache
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.AssemblyInfo.cs
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.csproj.CoreCompileInputs.cache
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanTha.DDF710CB.Up2Date
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/refint/CleanThatCode.Community.Repositories.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.pdb
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/ref/CleanThatCode.Community.Repositories.dll

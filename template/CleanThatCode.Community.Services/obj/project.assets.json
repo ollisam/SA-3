@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "CleanThatCode.Community.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanThatCode.Community.Models/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+    },
+    "CleanThatCode.Community.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "CleanThatCode.Community.Models >= 1.0.0",
+      "CleanThatCode.Community.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/oliversamuelsson/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+      "projectName": "CleanThatCode.Community.Services",
+      "projectPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+      "packagesPath": "/Users/oliversamuelsson/.nuget/packages/",
+      "outputPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Services/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/oliversamuelsson/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
+              "projectPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+            },
+            "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
+              "projectPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

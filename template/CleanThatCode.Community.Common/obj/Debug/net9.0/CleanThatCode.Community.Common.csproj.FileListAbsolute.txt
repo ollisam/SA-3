@@ -1,0 +1,11 @@
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.AssemblyInfoInputs.cache
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.AssemblyInfo.cs
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.csproj.CoreCompileInputs.cache
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/bin/Debug/net9.0/CleanThatCode.Community.Common.deps.json
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/bin/Debug/net9.0/CleanThatCode.Community.Common.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/bin/Debug/net9.0/CleanThatCode.Community.Common.pdb
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/refint/CleanThatCode.Community.Common.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.pdb
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/ref/CleanThatCode.Community.Common.dll

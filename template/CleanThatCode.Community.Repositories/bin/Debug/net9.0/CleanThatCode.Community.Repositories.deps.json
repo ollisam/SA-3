@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CleanThatCode.Community.Repositories/1.0.0": {
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0"
+        },
+        "runtime": {
+          "CleanThatCode.Community.Repositories.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Models/1.0.0": {
+        "runtime": {
+          "CleanThatCode.Community.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanThatCode.Community.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanThatCode.Community.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
