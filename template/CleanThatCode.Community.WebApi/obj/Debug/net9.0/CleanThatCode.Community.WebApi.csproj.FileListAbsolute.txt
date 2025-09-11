@@ -38,3 +38,4 @@
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/CleanThatCode.Community.WebApi.pdb
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/CleanThatCode.Community.WebApi.genruntimeconfig.cache
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/ref/CleanThatCode.Community.WebApi.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/CleanThatCode.Community.WebApi.sourcelink.json

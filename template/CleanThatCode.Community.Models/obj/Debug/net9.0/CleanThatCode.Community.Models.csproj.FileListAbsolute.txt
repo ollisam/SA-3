@@ -9,3 +9,4 @@
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/obj/Debug/net9.0/refint/CleanThatCode.Community.Models.dll
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/obj/Debug/net9.0/CleanThatCode.Community.Models.pdb
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/obj/Debug/net9.0/ref/CleanThatCode.Community.Models.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/obj/Debug/net9.0/CleanThatCode.Community.Models.sourcelink.json

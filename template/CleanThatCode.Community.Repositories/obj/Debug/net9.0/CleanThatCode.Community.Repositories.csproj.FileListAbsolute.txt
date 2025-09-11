@@ -13,3 +13,4 @@
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/refint/CleanThatCode.Community.Repositories.dll
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.pdb
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/ref/CleanThatCode.Community.Repositories.dll
+/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Repositories/obj/Debug/net9.0/CleanThatCode.Community.Repositories.sourcelink.json
