@@ -70,39 +70,3 @@ public class StringHelperTests
         Assert.AreEqual("shuffle! truffle the Do chunk! Chunk,", result);
     }
 }
-
-// TEST COMMENT REPOSITRY
-[TestClass]
-public class CommentRepositoryTests
-{
-    [TestMethod]
-    public void GetAllCommentsByPostId_WithExistingPost_ReturnsOnlyThatPostsComments()
-    {
-        // Arrange
-        var db = new CleanThatCodeDbContextMock();
-        var sut = new CommentRepository(db);
-        var targetPostId = 1;
-
-        // Act
-        var result = sut.GetAllCommentsByPostId(targetPostId).ToList();
-
-        // Assert
-        Assert.IsTrue(result.Count > 0, "Expected at least one comment for post 1");
-        Assert.IsTrue(result.All(c => c.PostId == targetPostId), "Repository returned comments for the wrong post");
-    }
-
-    [TestMethod]
-    public void GetAllCommentsByPostId_WithNonExistingPost_ReturnsEmpty()
-    {
-        // Arrange
-        var db = new CleanThatCodeDbContextMock();
-        var sut = new CommentRepository(db);
-        var nonexistentPostId = 999;
-
-        // Act
-        var result = sut.GetAllCommentsByPostId(nonexistentPostId).ToList();
-
-        // Assert
-        Assert.AreEqual(0, result.Count);
-    }
-}

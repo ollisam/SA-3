@@ -39,3 +39,44 @@
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/CleanThatCode.Community.WebApi.genruntimeconfig.cache
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/ref/CleanThatCode.Community.WebApi.dll
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.WebApi/obj/Debug/net9.0/CleanThatCode.Community.WebApi.sourcelink.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\appsettings.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.staticwebassets.endpoints.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.exe
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.deps.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.WebApi.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Models.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Repositories.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Services.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Services.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Models.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\bin\Debug\net9.0\CleanThatCode.Community.Repositories.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.sourcelink.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\scopedcss\bundle\CleanThatCode.Community.WebApi.styles.css
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanTha.8BB0DF0C.Up2Date
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\refint\CleanThatCode.Community.WebApi.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\CleanThatCode.Community.WebApi.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.WebApi\obj\Debug\net9.0\ref\CleanThatCode.Community.WebApi.dll

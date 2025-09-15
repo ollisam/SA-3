@@ -10,3 +10,15 @@
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.pdb
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/ref/CleanThatCode.Community.Common.dll
 /Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Common/obj/Debug/net9.0/CleanThatCode.Community.Common.sourcelink.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\bin\Debug\net9.0\CleanThatCode.Community.Common.deps.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\bin\Debug\net9.0\CleanThatCode.Community.Common.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\bin\Debug\net9.0\CleanThatCode.Community.Common.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.sourcelink.json
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\refint\CleanThatCode.Community.Common.dll
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\CleanThatCode.Community.Common.pdb
+C:\Users\Lenovo\OneDrive - Reykjavik University\5. Önn\Vefþjónustur\Assignments\SA3\SA-3\template\CleanThatCode.Community.Common\obj\Debug\net9.0\ref\CleanThatCode.Community.Common.dll

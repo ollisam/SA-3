@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/oliversamuelsson/.nuget/packages/": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "projectUniqueName": "c:\\Users\\Lenovo\\OneDrive - Reykjavik University\\5. Önn\\Vefþjónustur\\Assignments\\SA3\\SA-3\\template\\CleanThatCode.Community.Models\\CleanThatCode.Community.Models.csproj",
       "projectName": "CleanThatCode.Community.Models",
-      "projectPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
-      "packagesPath": "/Users/oliversamuelsson/.nuget/packages/",
-      "outputPath": "/Users/oliversamuelsson/Documents/Main/Skólinn/3-ár/5-önn/vefþjónustur/SA-3/template/CleanThatCode.Community.Models/obj/",
+      "projectPath": "c:\\Users\\Lenovo\\OneDrive - Reykjavik University\\5. Önn\\Vefþjónustur\\Assignments\\SA3\\SA-3\\template\\CleanThatCode.Community.Models\\CleanThatCode.Community.Models.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Lenovo\\OneDrive - Reykjavik University\\5. Önn\\Vefþjónustur\\Assignments\\SA3\\SA-3\\template\\CleanThatCode.Community.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/oliversamuelsson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
