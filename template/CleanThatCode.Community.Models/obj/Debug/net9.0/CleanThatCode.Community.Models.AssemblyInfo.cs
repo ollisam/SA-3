@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanThatCode.Community.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f50316961983c82f10fddb1cd42ca66637955e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1bcc0a3cafbb9edfed6877020e655327c1e62c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanThatCode.Community.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanThatCode.Community.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
