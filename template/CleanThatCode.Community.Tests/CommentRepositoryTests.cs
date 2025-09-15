@@ -13,8 +13,7 @@ public class CommentRepositoryTests
     {
         var repo = new CommentRepository(new CleanThatCodeDbContextMock());
 
-        var result = repo.GetAllCommentsByPostId(999).ToList();
-
+        var result = repo.GetAllCommentsByPostId(5).ToList(); // PostId 5 does not exist in the fake data.
         Assert.AreEqual(0, result.Count);
     }
 
